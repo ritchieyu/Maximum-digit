@@ -1,3 +1,3 @@
-# Multiple-digit-recognition
+# Maximum digit recognition
 
-Project files for Kaggle competition hosted by MAIS 202. The goal is to recognize multiple handwritten numbers in a given picture and to identify the largest number.
+Project files for Kaggle competition hosted by MAIS 202. Recognize maximum digit in a picture. 
